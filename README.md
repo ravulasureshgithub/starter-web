@@ -8,3 +8,4 @@ thanks
 Sample website with plenty of files for demos
 
 ## Git & GitHub Training
+This is Git Project which we are using as Sample Project
